@@ -26,13 +26,13 @@ The decompression algorithm `RunLengthDecr()` takes a string `str` as input and 
 1. To compress data:
    - Place the data to be compressed in `input.txt`.
    - Compile and run the program.
-   - Select compression option when prompted.
+   - Select compression option when prompted(type 1).
    - The compressed data will be stored in `output.txt`.
 
 2. To decompress data:
    - Place the compressed data in `input.txt`.
    - Compile and run the program.
-   - Select decompression option when prompted.
+   - Select decompression option when prompted(type 2).
    - The decompressed data will be stored in `output.txt`.
 
 #### Note:
