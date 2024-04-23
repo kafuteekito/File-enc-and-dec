@@ -35,6 +35,3 @@ The decompression algorithm `RunLengthDecr()` takes a string `str` as input and 
    - Select decompression option when prompted(type 2).
    - The decompressed data will be stored in `output.txt`.
 
-#### Note:
-- Ensure that `input.txt` exists and contains the data to be processed.
-- Make sure you have necessary permissions to read from and write to files.
